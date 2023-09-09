@@ -11,8 +11,8 @@ ParallelExodus_jll = "6b8956b8-7fb9-5872-aa5e-3830408ae101"
 PnetCDF_jll = "42036edf-1cf4-552f-a99e-b7155f12a1cd"
 
 [compat]
+Exodus = "0.7, 0.8"
 MPI = "0.20"
-Exodus = "0.7"
 julia = "1"
 
 [extras]
